@@ -1,0 +1,10 @@
+var i = 0;
+var boo = 0;
+do {
+    i = i + 1;
+    boo = i + boo;
+    
+
+} while (i < 100);
+   console.log(boo);
+
